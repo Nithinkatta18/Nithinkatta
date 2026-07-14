@@ -9,10 +9,18 @@ My Profile
 - HTML
 - CSS
 - JavaScript
+- Spring Boot
+- Spring MVC
+- REST APIs
+- PostgreSQL
+- SQL
+- Maven
 - React (Learning)
 - Git & GitHub
 
 ## 📂 Projects
+**###🚚 Goods Carrier Management System**
+A backend REST API application built using Spring Boot for managing logistics and transportation operations. The system enables efficient management of carriers, drivers, trucks, customer orders, and addresses through a well-structured layered architecture.
 
 ### 🍽️ CurryPoint Website
 Food ordering website built using HTML, CSS, JavaScript.
